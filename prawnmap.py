@@ -1,4 +1,4 @@
-
+import streamlit as st
 import folium
 
 # 기본 지도 생성
